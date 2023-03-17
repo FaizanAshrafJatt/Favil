@@ -399,7 +399,7 @@ top: 0;
 position: absolute;
 width: 50%;
 height: 100%;
-background-image: url('/Assests/Images/about2.png');
+background-image: url("../Images/about2.png");
 background-position: center left;
 background-repeat: no-repeat;
 left: 165px;
