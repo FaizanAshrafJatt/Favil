@@ -306,7 +306,7 @@ background-color: rgba(26, 25, 25, 0.877) !important;
   top: 8px;
 }
 .cards{
-  background-image: url('/Assests/Images/single_bg.png');
+  background-image: url('../Images/single_bg.png');
   background-repeat: no-repeat;
   background-position: right top;
   display: flex;
@@ -329,7 +329,7 @@ position: absolute;
 width: 50%;
 height: 100%;
 
-background-image: url('/Assests/Images/about1.png');
+background-image: url('../Images/about1.png');
 background-position: center center;
   background-position-x: center;
   background-position-y: center;
