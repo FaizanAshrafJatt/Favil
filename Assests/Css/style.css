@@ -408,6 +408,8 @@ top: 0;
 .mobile-head{
   margin: 114px 35px 95px 12px;
   color: white;
+  position: relative;
+  z-index: 2;
 }
 
   
