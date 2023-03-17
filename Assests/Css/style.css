@@ -627,7 +627,7 @@ top: 61px;
   filter: grayscale(100%);
 }
 .img:hover{
-  filter: grayscale(0%);
+ filter: grayscale(1%);
 }
 
 /* .thumb::after{
