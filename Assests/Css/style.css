@@ -771,7 +771,7 @@ color: rgba(255, 254, 254, 0.432);
   background-color: rgba(202, 195, 195, 0.11);
 }
 .accordion-button::after{
-  background: url('/Assests/Images/plus-solid.svg');
+  background: url('../Images/plus-solid.svg');
   /* font-weight: lighter; */
 
 }
