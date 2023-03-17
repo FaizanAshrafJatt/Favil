@@ -623,7 +623,11 @@ top: 61px;
 }
 .img{
   height: 100px;
+  transition: 250ms;
   filter: grayscale(100%);
+}
+.img:hover{
+  filter: grayscale(0%);
 }
 
 /* .thumb::after{
