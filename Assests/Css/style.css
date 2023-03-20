@@ -218,7 +218,11 @@ background-color: rgba(26, 25, 25, 0.877) !important;
 .right-button {
   color: white;
   margin-top: -24px;
+  display: flex;
   
+}
+.right-button .btn-light{
+  width: 105px;
 }
 .right-button span {
   margin-right: 30px;
