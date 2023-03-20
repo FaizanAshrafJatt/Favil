@@ -114,6 +114,10 @@ width: 250px;
   color: white !important;
 
 }
+.containere{
+  width: 80%;
+  margin: 0px auto;
+}
 @media  screen and (max-width:991px) {
   header{
     min-height: 605px;
@@ -662,6 +666,7 @@ transition: all 300ms linear 0s;
   filter: brightness(50%);
 
 }
+
 .single-blog-content{
   position: absolute;
   top: 159px;
