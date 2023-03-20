@@ -656,19 +656,12 @@ background: #000;
 opacity: 0;
 transition: all 300ms linear 0s;
 } */
-.thumb:hover::after{
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #000;
-  opacity: 0.6;
-  transition: all 300ms linear 0s;
+
+
+.single-blog:hover .image-fluid1{
+  filter: brightness(50%);
+
 }
-
-
 .single-blog-content{
   position: absolute;
   top: 159px;
