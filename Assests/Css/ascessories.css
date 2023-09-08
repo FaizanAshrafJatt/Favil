@@ -25,3 +25,29 @@
   font-family: 'Secular One', sans-serif;
 } 
 
+@media (min-width: 992px) {
+  .margin-s {
+    margin-left: 4rem !important;
+  }
+}
+.button-color{
+  color: white;
+  background-color:#f84b67;
+  font-weight: bolder;
+  translate: 0%;
+  position: relative;
+}
+.button-color::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0px;
+  background-color: #241d6c;
+  translate: 0%;
+
+}
+.button-color:hover::after{
+  width: 100%;
+  translate: 40%;
+}
